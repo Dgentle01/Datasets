@@ -1,0 +1,1486 @@
+{
+   "log" : {
+      "browser" : {
+         "name" : "Chrome",
+         "version" : "103.0.5060.134"
+      },
+      "creator" : {
+         "name" : "GTmetrix",
+         "version" : "0.2"
+      },
+      "entries" : [
+         {
+            "cache" : {},
+            "connection" : "57",
+            "pageref" : "page_0",
+            "request" : {
+               "bodySize" : 0,
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "Upgrade-Insecure-Requests",
+                     "value" : "1"
+                  },
+                  {
+                     "name" : "User-Agent",
+                     "value" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 GTmetrix"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/2.0",
+               "method" : "GET",
+               "queryString" : [],
+               "url" : "https://bit.ly/women-reproductive"
+            },
+            "response" : {
+               "bodySize" : 198,
+               "content" : {
+                  "mimeType" : "text/html; charset=utf-8",
+                  "size" : 198
+               },
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "alt-svc",
+                     "value" : "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+                  },
+                  {
+                     "name" : "cache-control",
+                     "value" : "private, max-age=90"
+                  },
+                  {
+                     "name" : "content-length",
+                     "value" : "198"
+                  },
+                  {
+                     "name" : "content-security-policy",
+                     "value" : "referrer always;"
+                  },
+                  {
+                     "name" : "content-type",
+                     "value" : "text/html; charset=utf-8"
+                  },
+                  {
+                     "name" : "date",
+                     "value" : "Sat, 30 Sep 2023 11:04:39 GMT"
+                  },
+                  {
+                     "name" : "location",
+                     "value" : "https://women-health-2674a5ec82b7.herokuapp.com/?utm_source=google&utm_medium=email&utm_campaign=health"
+                  },
+                  {
+                     "name" : "referrer-policy",
+                     "value" : "unsafe-url"
+                  },
+                  {
+                     "name" : "server",
+                     "value" : "nginx"
+                  },
+                  {
+                     "name" : "via",
+                     "value" : "1.1 google"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/2.0",
+               "redirectURL" : "https://women-health-2674a5ec82b7.herokuapp.com/?utm_source=google&utm_medium=email&utm_campaign=health",
+               "status" : 301,
+               "statusText" : ""
+            },
+            "serverIPAddress" : "67.199.248.11",
+            "startedDateTime" : "2023-09-30T11:04:39.2160Z",
+            "time" : 184.3,
+            "timings" : {
+               "_blocked_queueing" : 0.8,
+               "blocked" : 0.8,
+               "connect" : 91.7,
+               "dns" : 2.8,
+               "receive" : 0,
+               "send" : 0.6,
+               "ssl" : 87.6,
+               "wait" : 88.4
+            }
+         },
+         {
+            "cache" : {},
+            "connection" : "80",
+            "pageref" : "page_0",
+            "request" : {
+               "bodySize" : 0,
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : ":authority",
+                     "value" : "bit.ly"
+                  },
+                  {
+                     "name" : ":method",
+                     "value" : "GET"
+                  },
+                  {
+                     "name" : ":path",
+                     "value" : "/women-reproductive"
+                  },
+                  {
+                     "name" : ":scheme",
+                     "value" : "https"
+                  },
+                  {
+                     "name" : "accept",
+                     "value" : "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+                  },
+                  {
+                     "name" : "accept-encoding",
+                     "value" : "gzip, deflate, br"
+                  },
+                  {
+                     "name" : "accept-language",
+                     "value" : "en-US,en;q=0.9"
+                  },
+                  {
+                     "name" : "sec-fetch-dest",
+                     "value" : "document"
+                  },
+                  {
+                     "name" : "sec-fetch-mode",
+                     "value" : "navigate"
+                  },
+                  {
+                     "name" : "sec-fetch-site",
+                     "value" : "none"
+                  },
+                  {
+                     "name" : "sec-fetch-user",
+                     "value" : "?1"
+                  },
+                  {
+                     "name" : "upgrade-insecure-requests",
+                     "value" : "1"
+                  },
+                  {
+                     "name" : "user-agent",
+                     "value" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 GTmetrix"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/1.1",
+               "method" : "GET",
+               "queryString" : [
+                  {
+                     "name" : "utm_source",
+                     "value" : "google"
+                  },
+                  {
+                     "name" : "utm_medium",
+                     "value" : "email"
+                  },
+                  {
+                     "name" : "utm_campaign",
+                     "value" : "health"
+                  }
+               ],
+               "url" : "https://women-health-2674a5ec82b7.herokuapp.com/?utm_source=google&utm_medium=email&utm_campaign=health"
+            },
+            "response" : {
+               "bodySize" : 2335,
+               "content" : {
+                  "mimeType" : "text/html;charset=UTF-8",
+                  "size" : 2335,
+                  "text" : "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Blog : Homepage</title>\n\n    <link href=\"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,600&display=swap\" rel=\"stylesheet\">\n    <link rel=\"stylesheet\" href=\"css/home.css\">\n\n</head>\n<body>\n\n    <nav class=\"navbar\">\n        <img src=\"img/health.png\" class=\"logo\" alt=\"\">\n        <ul class=\"links-container\">\n            <li class=\"link-item\"><a href=\"/\" class=\"link\">home</a></li>\n            <!-- <li class=\"link-item\"><a href=\"/editor.html\" class=\"link\">editor</a></li> -->\n            <li class=\"link-item\"><a href=\"/blog.html\" class=\"link\">blogs</a></li>\n            <li class=\"link-item\"><a href=\"/subscribe.html\" class=\"link\">subscribe</a></li>\n        </ul>\n    </nav>\n\n    <header class=\"header\">\n        <div class=\"content\">\n            <h1 class=\"heading\">\n               ... [truncated to save space (1311 more bytes)]"
+               },
+               "cookies" : [
+                  {
+                     "domain" : "bit.ly",
+                     "expires" : "Thu, 28 Mar 2024 11:04:39 GMT",
+                     "name" : "_bit",
+                     "value" : "n8ub4D-5befabe1b565c144bc-00i"
+                  }
+               ],
+               "headers" : [
+                  {
+                     "name" : "Accept-Ranges",
+                     "value" : "bytes"
+                  },
+                  {
+                     "name" : "Connection",
+                     "value" : "keep-alive"
+                  },
+                  {
+                     "name" : "Content-Language",
+                     "value" : "en-US"
+                  },
+                  {
+                     "name" : "Content-Length",
+                     "value" : "2335"
+                  },
+                  {
+                     "name" : "Content-Type",
+                     "value" : "text/html;charset=UTF-8"
+                  },
+                  {
+                     "name" : "Date",
+                     "value" : "Sat, 30 Sep 2023 11:04:39 GMT"
+                  },
+                  {
+                     "name" : "Last-Modified",
+                     "value" : "Thu, 14 Sep 2023 07:46:08 GMT"
+                  },
+                  {
+                     "name" : "Server",
+                     "value" : "Cowboy"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Origin"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Method"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Headers"
+                  },
+                  {
+                     "name" : "Via",
+                     "value" : "1.1 vegur"
+                  }
+               ],
+               "headersSize" : 353,
+               "httpVersion" : "HTTP/1.1",
+               "redirectURL" : "",
+               "status" : 200,
+               "statusText" : ""
+            },
+            "serverIPAddress" : "107.22.57.98",
+            "startedDateTime" : "2023-09-30T11:04:39.4014Z",
+            "time" : 341.9,
+            "timings" : {
+               "_blocked_queueing" : 0.5,
+               "blocked" : 0.6,
+               "connect" : 236.7,
+               "dns" : 20.7,
+               "receive" : 0.7,
+               "send" : 0.2,
+               "ssl" : 158.5,
+               "wait" : 83
+            }
+         },
+         {
+            "cache" : {},
+            "connection" : "94",
+            "pageref" : "page_0",
+            "request" : {
+               "bodySize" : 0,
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : ":authority",
+                     "value" : "fonts.googleapis.com"
+                  },
+                  {
+                     "name" : ":method",
+                     "value" : "GET"
+                  },
+                  {
+                     "name" : ":path",
+                     "value" : "/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,600&display=swap"
+                  },
+                  {
+                     "name" : ":scheme",
+                     "value" : "https"
+                  },
+                  {
+                     "name" : "accept",
+                     "value" : "text/css,*/*;q=0.1"
+                  },
+                  {
+                     "name" : "accept-encoding",
+                     "value" : "gzip, deflate, br"
+                  },
+                  {
+                     "name" : "accept-language",
+                     "value" : "en-US,en;q=0.9"
+                  },
+                  {
+                     "name" : "referer",
+                     "value" : "https://women-health-2674a5ec82b7.herokuapp.com/"
+                  },
+                  {
+                     "name" : "sec-fetch-dest",
+                     "value" : "style"
+                  },
+                  {
+                     "name" : "sec-fetch-mode",
+                     "value" : "no-cors"
+                  },
+                  {
+                     "name" : "sec-fetch-site",
+                     "value" : "cross-site"
+                  },
+                  {
+                     "name" : "user-agent",
+                     "value" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 GTmetrix"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/2.0",
+               "method" : "GET",
+               "queryString" : [
+                  {
+                     "name" : "family",
+                     "value" : "Poppins:ital,wght@0,400"
+                  },
+                  {
+                     "name" : "0,500",
+                     "value" : ""
+                  },
+                  {
+                     "name" : "0,600",
+                     "value" : ""
+                  },
+                  {
+                     "name" : "1,600",
+                     "value" : ""
+                  },
+                  {
+                     "name" : "display",
+                     "value" : "swap"
+                  }
+               ],
+               "url" : "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,600&display=swap"
+            },
+            "response" : {
+               "bodySize" : 978,
+               "content" : {
+                  "compression" : 3502,
+                  "mimeType" : "text/css; charset=utf-8",
+                  "size" : 4480,
+                  "text" : "/* devanagari */\n@font-face {\n  font-family: 'Poppins';\n  font-style: italic;\n  font-weight: 600;\n  font-display: swap;\n  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2) format('woff2');\n  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;\n}\n/* latin-ext */\n@font-face {\n  font-family: 'Poppins';\n  font-style: italic;\n  font-weight: 600;\n  font-display: swap;\n  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2) format('woff2');\n  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;\n}\n/* latin */\n@font-face {\n  font-family: 'Poppins';\n  font-style: italic;\n  font-weight: 600;\n  font-display: swap;\n  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2) format('woff2');\n  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304... [truncated to save space (3456 more bytes)]"
+               },
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "access-control-allow-origin",
+                     "value" : "*"
+                  },
+                  {
+                     "name" : "alt-svc",
+                     "value" : "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+                  },
+                  {
+                     "name" : "cache-control",
+                     "value" : "private, max-age=86400, stale-while-revalidate=604800"
+                  },
+                  {
+                     "name" : "content-encoding",
+                     "value" : "gzip"
+                  },
+                  {
+                     "name" : "content-type",
+                     "value" : "text/css; charset=utf-8"
+                  },
+                  {
+                     "name" : "cross-origin-opener-policy",
+                     "value" : "same-origin-allow-popups"
+                  },
+                  {
+                     "name" : "cross-origin-resource-policy",
+                     "value" : "cross-origin"
+                  },
+                  {
+                     "name" : "date",
+                     "value" : "Sat, 30 Sep 2023 11:04:39 GMT"
+                  },
+                  {
+                     "name" : "expires",
+                     "value" : "Sat, 30 Sep 2023 11:04:39 GMT"
+                  },
+                  {
+                     "name" : "last-modified",
+                     "value" : "Sat, 30 Sep 2023 11:01:46 GMT"
+                  },
+                  {
+                     "name" : "link",
+                     "value" : "<https://fonts.gstatic.com>; rel=preconnect; crossorigin"
+                  },
+                  {
+                     "name" : "server",
+                     "value" : "ESF"
+                  },
+                  {
+                     "name" : "strict-transport-security",
+                     "value" : "max-age=31536000"
+                  },
+                  {
+                     "name" : "timing-allow-origin",
+                     "value" : "*"
+                  },
+                  {
+                     "name" : "x-content-type-options",
+                     "value" : "nosniff"
+                  },
+                  {
+                     "name" : "x-frame-options",
+                     "value" : "SAMEORIGIN"
+                  },
+                  {
+                     "name" : "x-xss-protection",
+                     "value" : "0"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/2.0",
+               "redirectURL" : "",
+               "status" : 200,
+               "statusText" : ""
+            },
+            "serverIPAddress" : "142.251.33.74",
+            "startedDateTime" : "2023-09-30T11:04:39.7496Z",
+            "time" : 41.7,
+            "timings" : {
+               "_blocked_queueing" : 1.2,
+               "blocked" : 1.5,
+               "connect" : 18.8,
+               "dns" : 5.8,
+               "receive" : 0.9,
+               "send" : 0.3,
+               "ssl" : 14.8,
+               "wait" : 14.4
+            }
+         },
+         {
+            "cache" : {},
+            "connection" : "80",
+            "pageref" : "page_0",
+            "request" : {
+               "bodySize" : 0,
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "Accept",
+                     "value" : "text/css,*/*;q=0.1"
+                  },
+                  {
+                     "name" : "Accept-Encoding",
+                     "value" : "gzip, deflate, br"
+                  },
+                  {
+                     "name" : "Accept-Language",
+                     "value" : "en-US,en;q=0.9"
+                  },
+                  {
+                     "name" : "Connection",
+                     "value" : "keep-alive"
+                  },
+                  {
+                     "name" : "Host",
+                     "value" : "women-health-2674a5ec82b7.herokuapp.com"
+                  },
+                  {
+                     "name" : "Referer",
+                     "value" : "https://women-health-2674a5ec82b7.herokuapp.com/?utm_source=google&utm_medium=email&utm_campaign=health"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Dest",
+                     "value" : "style"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Mode",
+                     "value" : "no-cors"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Site",
+                     "value" : "same-origin"
+                  },
+                  {
+                     "name" : "User-Agent",
+                     "value" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 GTmetrix"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/1.1",
+               "method" : "GET",
+               "queryString" : [],
+               "url" : "https://women-health-2674a5ec82b7.herokuapp.com/css/home.css"
+            },
+            "response" : {
+               "bodySize" : 2284,
+               "content" : {
+                  "mimeType" : "text/css",
+                  "size" : 2284,
+                  "text" : "*{\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n}\n\nbody{\n    width: 100%;\n    position: relative;\n    font-family: 'poppins', sans-serif;\n}\n\n::selection{\n    background: #1b1b1b;\n    color: #fff;\n}\n\n.navbar{\n    width: 100%;\n    height: 60px;\n    position: fixed;\n    top: 0;\n    left: 0;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n    padding: 0 5vw;\n    background: #fff;\n    z-index: 9;\n}\n\n.links-container{\n    display: flex;\n    list-style: none;\n}\n\n.link{\n    padding: 10px;\n    margin-left: 10px;\n    text-decoration: none;\n    text-transform: capitalize;\n    color: #000;\n}\n\n.header{\n    margin-top: 60px;\n    width: 100%;\n    height: calc(100vh - 60px);\n    background: url(../img/header.png);\n    background-size: cover;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\n.content{\n    text-align: center;\n}\n\n.heading{\n    color: #fff;\n    text-transform: capitalize;\n    font-size: 80px;\n    line-height: 60px;\n    margin-bottom: 80px;\n}... [truncated to save space (1260 more bytes)]"
+               },
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "Server",
+                     "value" : "Cowboy"
+                  },
+                  {
+                     "name" : "Report-To",
+                     "value" : "{\"group\":\"heroku-nel\",\"max_age\":3600,\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?ts=1696071879&s=k5bZlx%2Bl85Vj7C1BXpYOPWne%2B3XVYIVqVB7V%2Fu9t5xI%3D\"}]}"
+                  },
+                  {
+                     "name" : "Reporting-Endpoints",
+                     "value" : "heroku-nel=https://nel.heroku.com/reports?ts=1696071879&s=k5bZlx%2Bl85Vj7C1BXpYOPWne%2B3XVYIVqVB7V%2Fu9t5xI%3D"
+                  },
+                  {
+                     "name" : "Nel",
+                     "value" : "{\"report_to\":\"heroku-nel\",\"max_age\":3600,\"success_fraction\":0.005,\"failure_fraction\":0.05,\"response_headers\":[\"Via\"]}"
+                  },
+                  {
+                     "name" : "Connection",
+                     "value" : "keep-alive"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Origin"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Method"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Headers"
+                  },
+                  {
+                     "name" : "Last-Modified",
+                     "value" : "Thu, 14 Sep 2023 07:46:08 GMT"
+                  },
+                  {
+                     "name" : "Accept-Ranges",
+                     "value" : "bytes"
+                  },
+                  {
+                     "name" : "Content-Type",
+                     "value" : "text/css"
+                  },
+                  {
+                     "name" : "Content-Length",
+                     "value" : "2284"
+                  },
+                  {
+                     "name" : "Date",
+                     "value" : "Sat, 30 Sep 2023 11:04:39 GMT"
+                  },
+                  {
+                     "name" : "Via",
+                     "value" : "1.1 vegur"
+                  }
+               ],
+               "headersSize" : 743,
+               "httpVersion" : "HTTP/1.1",
+               "redirectURL" : "",
+               "status" : 200,
+               "statusText" : ""
+            },
+            "serverIPAddress" : "107.22.57.98",
+            "startedDateTime" : "2023-09-30T11:04:39.7500Z",
+            "time" : 85.2,
+            "timings" : {
+               "_blocked_queueing" : 1.1,
+               "blocked" : 1.3,
+               "connect" : -1,
+               "dns" : -1,
+               "receive" : 1.6,
+               "send" : 0.1,
+               "ssl" : -1,
+               "wait" : 82.2
+            }
+         },
+         {
+            "cache" : {},
+            "connection" : "80",
+            "pageref" : "page_0",
+            "request" : {
+               "bodySize" : 0,
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "Accept",
+                     "value" : "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+                  },
+                  {
+                     "name" : "Accept-Encoding",
+                     "value" : "gzip, deflate, br"
+                  },
+                  {
+                     "name" : "Accept-Language",
+                     "value" : "en-US,en;q=0.9"
+                  },
+                  {
+                     "name" : "Connection",
+                     "value" : "keep-alive"
+                  },
+                  {
+                     "name" : "Host",
+                     "value" : "women-health-2674a5ec82b7.herokuapp.com"
+                  },
+                  {
+                     "name" : "Referer",
+                     "value" : "https://women-health-2674a5ec82b7.herokuapp.com/?utm_source=google&utm_medium=email&utm_campaign=health"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Dest",
+                     "value" : "image"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Mode",
+                     "value" : "no-cors"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Site",
+                     "value" : "same-origin"
+                  },
+                  {
+                     "name" : "User-Agent",
+                     "value" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 GTmetrix"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/1.1",
+               "method" : "GET",
+               "queryString" : [],
+               "url" : "https://women-health-2674a5ec82b7.herokuapp.com/img/health.png"
+            },
+            "response" : {
+               "bodySize" : 14402,
+               "content" : {
+                  "mimeType" : "image/png",
+                  "size" : 14402
+               },
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "Server",
+                     "value" : "Cowboy"
+                  },
+                  {
+                     "name" : "Connection",
+                     "value" : "keep-alive"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Origin"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Method"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Headers"
+                  },
+                  {
+                     "name" : "Last-Modified",
+                     "value" : "Thu, 14 Sep 2023 07:46:08 GMT"
+                  },
+                  {
+                     "name" : "Accept-Ranges",
+                     "value" : "bytes"
+                  },
+                  {
+                     "name" : "Content-Type",
+                     "value" : "image/png"
+                  },
+                  {
+                     "name" : "Content-Length",
+                     "value" : "14402"
+                  },
+                  {
+                     "name" : "Date",
+                     "value" : "Sat, 30 Sep 2023 11:04:39 GMT"
+                  },
+                  {
+                     "name" : "Via",
+                     "value" : "1.1 vegur"
+                  }
+               ],
+               "headersSize" : 314,
+               "httpVersion" : "HTTP/1.1",
+               "redirectURL" : "",
+               "status" : 200,
+               "statusText" : ""
+            },
+            "serverIPAddress" : "107.22.57.98",
+            "startedDateTime" : "2023-09-30T11:04:39.7502Z",
+            "time" : 244.6,
+            "timings" : {
+               "_blocked_queueing" : 6.7,
+               "blocked" : 85.2,
+               "connect" : -1,
+               "dns" : -1,
+               "receive" : 0.8,
+               "send" : 0.1,
+               "ssl" : -1,
+               "wait" : 158.6
+            }
+         },
+         {
+            "cache" : {},
+            "connection" : "98",
+            "pageref" : "page_0",
+            "request" : {
+               "bodySize" : 0,
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "Accept",
+                     "value" : "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+                  },
+                  {
+                     "name" : "Accept-Encoding",
+                     "value" : "gzip, deflate, br"
+                  },
+                  {
+                     "name" : "Accept-Language",
+                     "value" : "en-US,en;q=0.9"
+                  },
+                  {
+                     "name" : "Connection",
+                     "value" : "keep-alive"
+                  },
+                  {
+                     "name" : "Host",
+                     "value" : "women-health-2674a5ec82b7.herokuapp.com"
+                  },
+                  {
+                     "name" : "Referer",
+                     "value" : "https://women-health-2674a5ec82b7.herokuapp.com/css/home.css"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Dest",
+                     "value" : "image"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Mode",
+                     "value" : "no-cors"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Site",
+                     "value" : "same-origin"
+                  },
+                  {
+                     "name" : "User-Agent",
+                     "value" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 GTmetrix"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/1.1",
+               "method" : "GET",
+               "queryString" : [],
+               "url" : "https://women-health-2674a5ec82b7.herokuapp.com/img/header.png"
+            },
+            "response" : {
+               "bodySize" : 2834906,
+               "content" : {
+                  "mimeType" : "image/png",
+                  "size" : 2834906
+               },
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "Server",
+                     "value" : "Cowboy"
+                  },
+                  {
+                     "name" : "Report-To",
+                     "value" : "{\"group\":\"heroku-nel\",\"max_age\":3600,\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?ts=1696071879&s=k5bZlx%2Bl85Vj7C1BXpYOPWne%2B3XVYIVqVB7V%2Fu9t5xI%3D\"}]}"
+                  },
+                  {
+                     "name" : "Reporting-Endpoints",
+                     "value" : "heroku-nel=https://nel.heroku.com/reports?ts=1696071879&s=k5bZlx%2Bl85Vj7C1BXpYOPWne%2B3XVYIVqVB7V%2Fu9t5xI%3D"
+                  },
+                  {
+                     "name" : "Nel",
+                     "value" : "{\"report_to\":\"heroku-nel\",\"max_age\":3600,\"success_fraction\":0.005,\"failure_fraction\":0.05,\"response_headers\":[\"Via\"]}"
+                  },
+                  {
+                     "name" : "Connection",
+                     "value" : "keep-alive"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Origin"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Method"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Headers"
+                  },
+                  {
+                     "name" : "Last-Modified",
+                     "value" : "Thu, 14 Sep 2023 07:46:08 GMT"
+                  },
+                  {
+                     "name" : "Accept-Ranges",
+                     "value" : "bytes"
+                  },
+                  {
+                     "name" : "Content-Type",
+                     "value" : "image/png"
+                  },
+                  {
+                     "name" : "Content-Length",
+                     "value" : "2834906"
+                  },
+                  {
+                     "name" : "Date",
+                     "value" : "Sat, 30 Sep 2023 11:04:39 GMT"
+                  },
+                  {
+                     "name" : "Via",
+                     "value" : "1.1 vegur"
+                  }
+               ],
+               "headersSize" : 747,
+               "httpVersion" : "HTTP/1.1",
+               "redirectURL" : "",
+               "status" : 200,
+               "statusText" : ""
+            },
+            "serverIPAddress" : "107.22.57.98",
+            "startedDateTime" : "2023-09-30T11:04:39.8373Z",
+            "time" : 1322.1,
+            "timings" : {
+               "_blocked_queueing" : 0.4,
+               "blocked" : 0.4,
+               "connect" : 76.5,
+               "dns" : 0,
+               "receive" : 1162.4,
+               "send" : 0.1,
+               "ssl" : 76.5,
+               "wait" : 82.7
+            }
+         },
+         {
+            "cache" : {},
+            "connection" : "106",
+            "pageref" : "page_0",
+            "request" : {
+               "bodySize" : 0,
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : ":authority",
+                     "value" : "fonts.gstatic.com"
+                  },
+                  {
+                     "name" : ":method",
+                     "value" : "GET"
+                  },
+                  {
+                     "name" : ":path",
+                     "value" : "/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2"
+                  },
+                  {
+                     "name" : ":scheme",
+                     "value" : "https"
+                  },
+                  {
+                     "name" : "accept",
+                     "value" : "*/*"
+                  },
+                  {
+                     "name" : "accept-encoding",
+                     "value" : "gzip, deflate, br"
+                  },
+                  {
+                     "name" : "accept-language",
+                     "value" : "en-US,en;q=0.9"
+                  },
+                  {
+                     "name" : "origin",
+                     "value" : "https://women-health-2674a5ec82b7.herokuapp.com"
+                  },
+                  {
+                     "name" : "referer",
+                     "value" : "https://fonts.googleapis.com/"
+                  },
+                  {
+                     "name" : "sec-fetch-dest",
+                     "value" : "font"
+                  },
+                  {
+                     "name" : "sec-fetch-mode",
+                     "value" : "cors"
+                  },
+                  {
+                     "name" : "sec-fetch-site",
+                     "value" : "cross-site"
+                  },
+                  {
+                     "name" : "user-agent",
+                     "value" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 GTmetrix"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/2.0",
+               "method" : "GET",
+               "queryString" : [],
+               "url" : "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2"
+            },
+            "response" : {
+               "bodySize" : 7884,
+               "content" : {
+                  "mimeType" : "font/woff2",
+                  "size" : 7884
+               },
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "accept-ranges",
+                     "value" : "bytes"
+                  },
+                  {
+                     "name" : "access-control-allow-origin",
+                     "value" : "*"
+                  },
+                  {
+                     "name" : "age",
+                     "value" : "296286"
+                  },
+                  {
+                     "name" : "alt-svc",
+                     "value" : "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+                  },
+                  {
+                     "name" : "cache-control",
+                     "value" : "public, max-age=31536000"
+                  },
+                  {
+                     "name" : "content-length",
+                     "value" : "7884"
+                  },
+                  {
+                     "name" : "content-security-policy-report-only",
+                     "value" : "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+                  },
+                  {
+                     "name" : "content-type",
+                     "value" : "font/woff2"
+                  },
+                  {
+                     "name" : "cross-origin-opener-policy",
+                     "value" : "same-origin; report-to=\"apps-themes\""
+                  },
+                  {
+                     "name" : "cross-origin-resource-policy",
+                     "value" : "cross-origin"
+                  },
+                  {
+                     "name" : "date",
+                     "value" : "Wed, 27 Sep 2023 00:46:33 GMT"
+                  },
+                  {
+                     "name" : "expires",
+                     "value" : "Thu, 26 Sep 2024 00:46:33 GMT"
+                  },
+                  {
+                     "name" : "last-modified",
+                     "value" : "Wed, 27 Apr 2022 17:03:52 GMT"
+                  },
+                  {
+                     "name" : "report-to",
+                     "value" : "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+                  },
+                  {
+                     "name" : "server",
+                     "value" : "sffe"
+                  },
+                  {
+                     "name" : "timing-allow-origin",
+                     "value" : "*"
+                  },
+                  {
+                     "name" : "x-content-type-options",
+                     "value" : "nosniff"
+                  },
+                  {
+                     "name" : "x-xss-protection",
+                     "value" : "0"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/2.0",
+               "redirectURL" : "",
+               "status" : 200,
+               "statusText" : ""
+            },
+            "serverIPAddress" : "142.251.215.227",
+            "startedDateTime" : "2023-09-30T11:04:39.8378Z",
+            "time" : 28.4,
+            "timings" : {
+               "_blocked_queueing" : 20,
+               "blocked" : 20.6,
+               "connect" : -1,
+               "dns" : -1,
+               "receive" : 1.4,
+               "send" : 0.2,
+               "ssl" : -1,
+               "wait" : 6.2
+            }
+         },
+         {
+            "cache" : {},
+            "connection" : "106",
+            "pageref" : "page_0",
+            "request" : {
+               "bodySize" : 0,
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : ":authority",
+                     "value" : "fonts.gstatic.com"
+                  },
+                  {
+                     "name" : ":method",
+                     "value" : "GET"
+                  },
+                  {
+                     "name" : ":path",
+                     "value" : "/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2"
+                  },
+                  {
+                     "name" : ":scheme",
+                     "value" : "https"
+                  },
+                  {
+                     "name" : "accept",
+                     "value" : "*/*"
+                  },
+                  {
+                     "name" : "accept-encoding",
+                     "value" : "gzip, deflate, br"
+                  },
+                  {
+                     "name" : "accept-language",
+                     "value" : "en-US,en;q=0.9"
+                  },
+                  {
+                     "name" : "origin",
+                     "value" : "https://women-health-2674a5ec82b7.herokuapp.com"
+                  },
+                  {
+                     "name" : "referer",
+                     "value" : "https://fonts.googleapis.com/"
+                  },
+                  {
+                     "name" : "sec-fetch-dest",
+                     "value" : "font"
+                  },
+                  {
+                     "name" : "sec-fetch-mode",
+                     "value" : "cors"
+                  },
+                  {
+                     "name" : "sec-fetch-site",
+                     "value" : "cross-site"
+                  },
+                  {
+                     "name" : "user-agent",
+                     "value" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 GTmetrix"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/2.0",
+               "method" : "GET",
+               "queryString" : [],
+               "url" : "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2"
+            },
+            "response" : {
+               "bodySize" : 8000,
+               "content" : {
+                  "mimeType" : "font/woff2",
+                  "size" : 8000
+               },
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "accept-ranges",
+                     "value" : "bytes"
+                  },
+                  {
+                     "name" : "access-control-allow-origin",
+                     "value" : "*"
+                  },
+                  {
+                     "name" : "age",
+                     "value" : "230838"
+                  },
+                  {
+                     "name" : "alt-svc",
+                     "value" : "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+                  },
+                  {
+                     "name" : "cache-control",
+                     "value" : "public, max-age=31536000"
+                  },
+                  {
+                     "name" : "content-length",
+                     "value" : "8000"
+                  },
+                  {
+                     "name" : "content-security-policy-report-only",
+                     "value" : "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+                  },
+                  {
+                     "name" : "content-type",
+                     "value" : "font/woff2"
+                  },
+                  {
+                     "name" : "cross-origin-opener-policy",
+                     "value" : "same-origin; report-to=\"apps-themes\""
+                  },
+                  {
+                     "name" : "cross-origin-resource-policy",
+                     "value" : "cross-origin"
+                  },
+                  {
+                     "name" : "date",
+                     "value" : "Wed, 27 Sep 2023 18:57:21 GMT"
+                  },
+                  {
+                     "name" : "expires",
+                     "value" : "Thu, 26 Sep 2024 18:57:21 GMT"
+                  },
+                  {
+                     "name" : "last-modified",
+                     "value" : "Wed, 27 Apr 2022 16:59:07 GMT"
+                  },
+                  {
+                     "name" : "report-to",
+                     "value" : "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+                  },
+                  {
+                     "name" : "server",
+                     "value" : "sffe"
+                  },
+                  {
+                     "name" : "timing-allow-origin",
+                     "value" : "*"
+                  },
+                  {
+                     "name" : "x-content-type-options",
+                     "value" : "nosniff"
+                  },
+                  {
+                     "name" : "x-xss-protection",
+                     "value" : "0"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/2.0",
+               "redirectURL" : "",
+               "status" : 200,
+               "statusText" : ""
+            },
+            "serverIPAddress" : "142.251.215.227",
+            "startedDateTime" : "2023-09-30T11:04:39.8380Z",
+            "time" : 29,
+            "timings" : {
+               "_blocked_queueing" : 20.2,
+               "blocked" : 20.5,
+               "connect" : -1,
+               "dns" : -1,
+               "receive" : 0.6,
+               "send" : 0.1,
+               "ssl" : -1,
+               "wait" : 7.8
+            }
+         },
+         {
+            "cache" : {},
+            "connection" : "98",
+            "pageref" : "page_0",
+            "request" : {
+               "bodySize" : 0,
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "Accept",
+                     "value" : "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+                  },
+                  {
+                     "name" : "Accept-Encoding",
+                     "value" : "gzip, deflate, br"
+                  },
+                  {
+                     "name" : "Accept-Language",
+                     "value" : "en-US,en;q=0.9"
+                  },
+                  {
+                     "name" : "Connection",
+                     "value" : "keep-alive"
+                  },
+                  {
+                     "name" : "Host",
+                     "value" : "women-health-2674a5ec82b7.herokuapp.com"
+                  },
+                  {
+                     "name" : "Referer",
+                     "value" : "https://women-health-2674a5ec82b7.herokuapp.com/?utm_source=google&utm_medium=email&utm_campaign=health"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Dest",
+                     "value" : "image"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Mode",
+                     "value" : "no-cors"
+                  },
+                  {
+                     "name" : "Sec-Fetch-Site",
+                     "value" : "same-origin"
+                  },
+                  {
+                     "name" : "User-Agent",
+                     "value" : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 GTmetrix"
+                  }
+               ],
+               "headersSize" : -1,
+               "httpVersion" : "HTTP/1.1",
+               "method" : "GET",
+               "queryString" : [],
+               "url" : "https://women-health-2674a5ec82b7.herokuapp.com/favicon.ico"
+            },
+            "response" : {
+               "bodySize" : 100,
+               "content" : {
+                  "mimeType" : "application/json",
+                  "size" : 100,
+                  "text" : "{\"timestamp\":\"2023-09-30T11:04:41.210+00:00\",\"status\":404,\"error\":\"Not Found\",\"path\":\"/favicon.ico\"}"
+               },
+               "cookies" : [],
+               "headers" : [
+                  {
+                     "name" : "Server",
+                     "value" : "Cowboy"
+                  },
+                  {
+                     "name" : "Connection",
+                     "value" : "keep-alive"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Origin"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Method"
+                  },
+                  {
+                     "name" : "Vary",
+                     "value" : "Access-Control-Request-Headers"
+                  },
+                  {
+                     "name" : "Content-Type",
+                     "value" : "application/json"
+                  },
+                  {
+                     "name" : "Transfer-Encoding",
+                     "value" : "chunked"
+                  },
+                  {
+                     "name" : "Date",
+                     "value" : "Sat, 30 Sep 2023 11:04:41 GMT"
+                  },
+                  {
+                     "name" : "Via",
+                     "value" : "1.1 vegur"
+                  }
+               ],
+               "headersSize" : 258,
+               "httpVersion" : "HTTP/1.1",
+               "redirectURL" : "",
+               "status" : 404,
+               "statusText" : ""
+            },
+            "serverIPAddress" : "107.22.57.98",
+            "startedDateTime" : "2023-09-30T11:04:41.1634Z",
+            "time" : 84.2,
+            "timings" : {
+               "_blocked_queueing" : 0.4,
+               "blocked" : 0.6,
+               "connect" : -1,
+               "dns" : -1,
+               "receive" : 0.9,
+               "send" : 0.1,
+               "ssl" : -1,
+               "wait" : 82.5
+            }
+         }
+      ],
+      "pages" : [
+         {
+            "_resourceUsage" : [
+               [
+                  0,
+                  0,
+                  174.1,
+                  0,
+                  0
+               ],
+               [
+                  100,
+                  8.4,
+                  173.3,
+                  2654,
+                  989
+               ],
+               [
+                  100,
+                  8.5,
+                  173.1,
+                  237,
+                  723
+               ],
+               [
+                  100,
+                  7.6,
+                  173.1,
+                  5931,
+                  654
+               ],
+               [
+                  100,
+                  5.3,
+                  173.1,
+                  369,
+                  772
+               ],
+               [
+                  100,
+                  55,
+                  174.4,
+                  16429,
+                  4055
+               ],
+               [
+                  100,
+                  84.2,
+                  182.8,
+                  37257,
+                  5258
+               ],
+               [
+                  100,
+                  34.9,
+                  215,
+                  15487,
+                  843
+               ],
+               [
+                  100,
+                  42.3,
+                  220.8,
+                  20920,
+                  660
+               ],
+               [
+                  100,
+                  61.1,
+                  219.8,
+                  41734,
+                  2314
+               ],
+               [
+                  100,
+                  10.3,
+                  220.3,
+                  238980,
+                  7524
+               ],
+               [
+                  101,
+                  9.7,
+                  220.4,
+                  313299,
+                  13663
+               ],
+               [
+                  100,
+                  7.5,
+                  220.9,
+                  327969,
+                  20868
+               ],
+               [
+                  101,
+                  14.3,
+                  222.1,
+                  414915,
+                  21734
+               ],
+               [
+                  100,
+                  12.3,
+                  222.6,
+                  262500,
+                  3168
+               ],
+               [
+                  100,
+                  11.6,
+                  223.1,
+                  268612,
+                  3234
+               ],
+               [
+                  100,
+                  9.7,
+                  223.5,
+                  256437,
+                  2574
+               ],
+               [
+                  100,
+                  16,
+                  224.5,
+                  499134,
+                  8254
+               ],
+               [
+                  100,
+                  57.9,
+                  244.7,
+                  289344,
+                  5928
+               ],
+               [
+                  100,
+                  98.3,
+                  249.6,
+                  36594,
+                  1598
+               ],
+               [
+                  100,
+                  4.5,
+                  248.7,
+                  465,
+                  66
+               ]
+            ],
+            "id" : "page_0",
+            "pageTimings" : {
+               "_firstContentfulPaint" : 642,
+               "_firstPaint" : 641.431,
+               "_fullyLoaded" : 2031,
+               "_largestContentfulPaint" : 1981.413,
+               "_timeToInteractive" : 642,
+               "onContentLoad" : 541,
+               "onLoad" : 1945.371
+            },
+            "startedDateTime" : "2023-09-30T11:04:39.2160Z",
+            "title" : "Blog : Homepage"
+         }
+      ],
+      "version" : "1.2"
+   }
+}
